@@ -1,0 +1,10 @@
+C:\Users\Betül Özsoy\Desktop\Yazlab\Yazlab\Yazlab\bin\Debug\Yazlab.exe.config
+C:\Users\Betül Özsoy\Desktop\Yazlab\Yazlab\Yazlab\bin\Debug\Yazlab.exe
+C:\Users\Betül Özsoy\Desktop\Yazlab\Yazlab\Yazlab\bin\Debug\Yazlab.pdb
+C:\Users\Betül Özsoy\Desktop\Yazlab\Yazlab\Yazlab\obj\Debug\Yazlab.csprojResolveAssemblyReference.cache
+C:\Users\Betül Özsoy\Desktop\Yazlab\Yazlab\Yazlab\obj\Debug\Yazlab.Form1.resources
+C:\Users\Betül Özsoy\Desktop\Yazlab\Yazlab\Yazlab\obj\Debug\Yazlab.Properties.Resources.resources
+C:\Users\Betül Özsoy\Desktop\Yazlab\Yazlab\Yazlab\obj\Debug\Yazlab.csproj.GenerateResource.Cache
+C:\Users\Betül Özsoy\Desktop\Yazlab\Yazlab\Yazlab\obj\Debug\Yazlab.exe
+C:\Users\Betül Özsoy\Desktop\Yazlab\Yazlab\Yazlab\obj\Debug\Yazlab.pdb
+C:\Users\Betül Özsoy\Desktop\Yazlab\Yazlab\Yazlab\obj\Debug\Yazlab.Form2.resources
